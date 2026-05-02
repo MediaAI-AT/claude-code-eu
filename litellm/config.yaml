@@ -1,6 +1,6 @@
 model_list:
   # Azure OpenAI — EU-Region (z.B. swedencentral, francecentral, germanywestcentral)
-  - model_name: claude-3-5-sonnet-20241022
+  - model_name: claude-sonnet-4-6-20250514
     litellm_params:
       model: azure/claude-sonnet
       api_base: "${AZURE_API_BASE}"
@@ -8,13 +8,13 @@ model_list:
       api_version: "2024-02-01"
 
   # Groq — EU-Infrastruktur
-  - model_name: claude-3-5-sonnet-20241022
+  - model_name: claude-sonnet-4-6-20250514
     litellm_params:
       model: groq/llama-3.3-70b-versatile
       api_key: "${GROQ_API_KEY}"
 
   # Ollama — lokal oder self-hosted
-  - model_name: claude-3-5-sonnet-20241022
+  - model_name: claude-sonnet-4-6-20250514
     litellm_params:
       model: ollama/llama3
       api_base: "http://localhost:11434"
