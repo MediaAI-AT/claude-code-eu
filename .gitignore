@@ -1,0 +1,6 @@
+node_modules/
+.claude/settings.json
+setenv-azure.sh
+setenv-groq.sh
+*.local.sh
+.env

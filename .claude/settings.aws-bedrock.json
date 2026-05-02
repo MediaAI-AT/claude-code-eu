@@ -1,0 +1,7 @@
+{
+  "env": {
+    "CLAUDE_CODE_USE_BEDROCK": "1",
+    "AWS_REGION": "eu-central-1",
+    "ANTHROPIC_MODEL": "anthropic.claude-3-5-sonnet-20241022-v2:0"
+  }
+}

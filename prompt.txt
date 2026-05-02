@@ -1,0 +1,9 @@
+Analysiere die Datei `app.js` und identifiziere bis zu 5 Sicherheitsprobleme oder Code-Qualitätsmängel.
+
+Für jedes Problem:
+- Beschreibe das Problem in einem Satz
+- Erkläre die konkrete Gefahr
+- Schlage eine Lösung vor (maximal 3 Zeilen Code als Beispiel)
+
+Priorisiere nach Schweregrad: Kritisch → Hoch → Mittel → Niedrig.
+Antworte auf Deutsch.

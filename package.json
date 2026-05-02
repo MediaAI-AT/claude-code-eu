@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-eu",
+  "version": "1.0.0",
+  "description": "DSGVO-konformes Claude Code Starter-Kit mit EU-Provider-Konfigurationen",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "setup": "node setup.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
