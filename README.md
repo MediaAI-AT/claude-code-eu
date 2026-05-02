@@ -143,3 +143,7 @@ This kit covers only the **technical infrastructure aspect** of GDPR compliance.
 ---
 
 Inspired by [claude-code-dsgvo](https://github.com/require-gio/claude-code-dsgvo) — independent reimplementation with Node.js, interactive CLI, and Groq support.
+
+---
+
+> **Legal Disclaimer:** This repository is a technical guide only and does not constitute legal advice. GDPR compliance depends on your specific use case, data types, and jurisdiction. For binding legal assessment, consult a qualified data protection attorney or your Data Protection Officer.

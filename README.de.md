@@ -143,3 +143,7 @@ Dieses Kit adressiert nur den **technischen Infrastruktur-Aspekt** der DSGVO. Vo
 ---
 
 Inspiriert von [claude-code-dsgvo](https://github.com/require-gio/claude-code-dsgvo) — eigenständige Neuimplementierung mit Node.js, interaktivem CLI und Groq-Support.
+
+---
+
+> **Rechtlicher Hinweis:** Dieses Repository ist eine technische Orientierungshilfe und stellt keine Rechtsberatung dar. DSGVO-Compliance hängt vom konkreten Anwendungsfall, den verarbeiteten Daten und der jeweiligen Rechtslage ab. Für eine verbindliche rechtliche Einschätzung wende dich an einen Datenschutzanwalt oder deinen Datenschutzbeauftragten.
