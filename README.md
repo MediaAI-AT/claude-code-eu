@@ -1,5 +1,7 @@
 # claude-code-eu
 
+![Claude Code DSGVO-konform](banner.jpeg)
+
 GDPR-compliant Claude Code starter kit — AI-powered code analysis running entirely within Europe or locally on your machine.
 
 🇩🇪 [Deutsche Version](README.de.md)

@@ -1,5 +1,7 @@
 # claude-code-eu
 
+![Claude Code DSGVO-konform](banner.jpeg)
+
 DSGVO-konformes Claude Code Starter-Kit — KI-gestützte Code-Analyse vollständig innerhalb Europas oder lokal.
 
 🇬🇧 [English version](README.md)
