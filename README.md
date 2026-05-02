@@ -49,7 +49,7 @@ cp .claude/settings.aws-bedrock.json .claude/settings.json
 ## AWS Bedrock (Frankfurt)
 
 1. Set up an AWS account with Bedrock access in `eu-central-1`
-2. Activate model access for `anthropic.claude-3-5-sonnet-20241022-v2:0`
+2. Activate model access for `anthropic.claude-sonnet-4-6-20250514-v1:0`
 3. Set credentials:
 
 ```bash
