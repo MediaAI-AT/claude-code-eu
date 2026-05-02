@@ -2,6 +2,6 @@
   "env": {
     "ANTHROPIC_BASE_URL": "http://localhost:11434/v1",
     "ANTHROPIC_API_KEY": "ollama",
-    "ANTHROPIC_MODEL": "llama3"
+    "ANTHROPIC_MODEL": "llama4"
   }
 }

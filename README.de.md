@@ -103,7 +103,7 @@ litellm --config litellm/config.yaml
 
 ```bash
 # Ollama installieren: https://ollama.com
-ollama pull llama3
+ollama pull llama4
 ollama serve
 
 npm run setup  # Option 4 wählen

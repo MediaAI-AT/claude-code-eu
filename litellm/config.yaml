@@ -16,7 +16,7 @@ model_list:
   # Ollama — lokal oder self-hosted
   - model_name: claude-sonnet-4-6-20250514
     litellm_params:
-      model: ollama/llama3
+      model: ollama/llama4
       api_base: "http://localhost:11434"
 
 litellm_settings:

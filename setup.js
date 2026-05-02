@@ -51,7 +51,7 @@ const PROVIDERS = [
     note: "Benötigt: Ollama installiert und laufend",
     extra: () => {
       console.log("\n  Ollama starten: ollama serve");
-      console.log("  Modell laden:   ollama pull llama3");
+      console.log("  Modell laden:   ollama pull llama4");
     },
   },
   {
